@@ -24,7 +24,7 @@ Every agent today starts each task from zero. It hits the same cookie wall, the 
 
 ## Evidence (recorded benchmark runs, real websites, real browser)
 
-Same request twice, "book Pink Mamma Saturday 8pm for 2", simulated user, stop before any payment. Full transcripts in [`evidence/`](evidence/).
+Same request twice, "book Pink Mamma Saturday 8pm for 2", simulated user, stop before any payment. Full transcripts in [`evidence/`](evidence/), details in [EVIDENCE.md](EVIDENCE.md).
 
 | | Pass 1 (no playbook) | Pass 2 (playbook learned from pass 1) |
 |---|---|---|
