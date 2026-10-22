@@ -1,0 +1,10 @@
+node_modules
+**/node_modules
+.data
+.git
+.claude
+backups
+infra/autonomy-data
+infra/autonomy-training
+*.log
+.env

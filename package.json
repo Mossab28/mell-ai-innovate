@@ -1,0 +1,22 @@
+{
+  "name": "mella",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "dev": "tsx watch server/src/main.ts",
+    "sim": "tsx sim/src/main.ts",
+    "relay": "tsx relay/src/main.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p .",
+    "server": "tsx server/src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@mella/sim",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "tsx src/main.ts" },
+  "dependencies": { "@mella/shared": "workspace:*", "@mella/server": "workspace:*" }
+}

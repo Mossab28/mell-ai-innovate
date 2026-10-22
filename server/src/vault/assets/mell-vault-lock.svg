@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f6f8"/>
+  <rect x="420" y="102" width="360" height="360" rx="96" fill="#edf3fc"/>
+  <g stroke="#245bc7" stroke-width="16" fill="none" stroke-linecap="round">
+    <path d="M546 270v-44a54 54 0 0 1 108 0v44"/>
+    <rect x="515" y="266" width="170" height="133" rx="32"/>
+    <path d="M600 331v23"/>
+  </g>
+  <circle cx="600" cy="324" r="13" fill="#245bc7"/>
+  <text x="600" y="548" fill="#17212b" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="48" font-weight="600">Mell</text>
+</svg>

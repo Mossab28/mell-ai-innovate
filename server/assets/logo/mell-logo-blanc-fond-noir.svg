@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 190" role="img" aria-label="Mell logo m point">
+  <rect width="420" height="190" fill="#000000"/>
+  <path d="M 28 151 C 28 99, 39 39, 91 39 C 143 39, 151 94, 151 151 C 151 97, 164 39, 216 39 C 269 39, 280 99, 280 151" fill="none" stroke="#FFFFFF" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="345" cy="150" r="19" fill="#FFFFFF"/>
+</svg>
